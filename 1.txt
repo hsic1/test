@@ -1,3 +1,7 @@
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
@@ -6,6 +10,7 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googleapis.com
