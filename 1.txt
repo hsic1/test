@@ -1,8 +1,13 @@
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,googlevideo.com
