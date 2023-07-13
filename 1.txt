@@ -1,3 +1,5 @@
+DOMAIN,gist.github.com
+DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,g.co
