@@ -54,3 +54,4 @@ DOMAIN-SUFFIX,iblimg.com
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,qunar.com
+DOMAIN-SUFFIX,umeng.com
