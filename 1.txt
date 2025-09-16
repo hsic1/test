@@ -2,6 +2,7 @@ DOMAIN,dns.google
 DOMAIN,gist.github.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goo.gl
@@ -30,3 +31,6 @@ DOMAIN-SUFFIX,google.co.kr
 DOMAIN-SUFFIX,google.com.ph
 DOMAIN-SUFFIX,google.com.sg
 DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,bsky.network
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.social
