@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,chrome.com
