@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,goo.gl
